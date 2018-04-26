@@ -15,7 +15,6 @@ https://github.com/tightenco/jigsaw
 https://en.wikipedia.org/wiki/Shadowsocks
 
 3.  chacha20-ietf-poly1305 : encrypt/decrypt Protocal
-
 https://tools.ietf.org/html/rfc7539  
 https://en.wikipedia.org/wiki/Poly1305
 
