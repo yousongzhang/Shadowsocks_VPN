@@ -14,7 +14,7 @@ https://github.com/Jigsaw-Code
 2. Shadowsocks: an open-source encrypted proxy project(server + client). it becomes popular in China after SSH tunnel blocked by The Great Firewall of China. it can proxy UDP traffic.   
 https://en.wikipedia.org/wiki/Shadowsocks
 
-3.  chacha20-ietf-poly1305 : encrypt/decrypt Protocal
+3.  chacha20-ietf-poly1305 : encrypt/decrypt Protocal  
 https://tools.ietf.org/html/rfc7539  
 https://en.wikipedia.org/wiki/Poly1305
 
