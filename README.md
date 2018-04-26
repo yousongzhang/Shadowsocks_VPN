@@ -2,13 +2,13 @@
 
 # purpose
 
-1. deploy Shadowsocks VPN Sever - Jigsaw 
+1. deploy Shadowsocks VPN Sever - Jigsaw outline
 2. use WireShark to catch packets between VPN server and client. study how chacha20-ietf-poly1305 encrypt/decrypt package.
 
 
 # background knowledge 
 
-1. Jigsaw:  google support VPN open souce project   
+1. Jigsaw outline:  google support VPN open souce project   
 https://github.com/Jigsaw-Code
 
 2. Shadowsocks: Shadowsocks is an open-source encrypted proxy project,  better than SSH tunnel for China Firewall and can proxy UDP traffic.   
