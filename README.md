@@ -9,7 +9,7 @@
 # background knowledge 
 
 1. Jigsaw:  google support VPN open souce project   
-https://github.com/tightenco/jigsaw  
+https://github.com/Jigsaw-Code
 
 2. Shadowsocks: Shadowsocks is an open-source encrypted proxy project,  better than SSH tunnel for China Firewall and can proxy UDP traffic.   
 https://en.wikipedia.org/wiki/Shadowsocks
