@@ -3,7 +3,7 @@
 # purpose
 
 1. deploy Shadowsocks VPN Sever - Jigsaw 
-2. use WireShark to catch packets between VPN server and client. student how chacha20-ietf-poly1305 encrypt decrypt package.
+2. use WireShark to catch packets between VPN server and client. study how chacha20-ietf-poly1305 encrypt/decrypt package.
 
 
 # background knowledge 
