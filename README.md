@@ -44,6 +44,26 @@ Since Shadowsocks does not help your online privacy and security, it is a good i
 
 Other threat models, which involve keeping your identity well-hidden on the Internet, are areas where Shadowsocks falls short. One could argue that it wasn’t designed for such functionality, and we agree. This is where VPN outshines Shadowsocks.
 
+## Installation
+Step1: 
+
+Go to Jigsaw outline's website: https://jigsaw.google.com/projects/#outline and download outline.
+
+Step 2:
+Create a manager key in outline.
+![Alt text](https://getoutline.org/modern/img/manager-download-2x.png)
+
+Step3: 
+
+Download shadowsocks client and server: https://www.shadowsocks.org/en/download/servers.html
+
+Step4:
+
+Use chacha20 as encryption method.
+
+
+
+# Reference
 
 1. Jigsaw outline:  google support VPN open souce project   
 https://github.com/Jigsaw-Code
