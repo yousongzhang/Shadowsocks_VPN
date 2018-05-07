@@ -49,8 +49,11 @@ Step1:
 
 Go to Jigsaw outline's website: https://getoutline.org  use chrome browser and download outline.
 
-Step 2:
-Create a manager key in outline.
+Step2: Install and Manage Shadowsocks Server 
+
+A:install outline manager and install docker on ubuntu system.
+
+B: Create a client key through outline manager.
 ![Alt text](https://getoutline.org/modern/img/manager-download-2x.png)
 
 Step3: 
