@@ -47,7 +47,7 @@ Other threat models, which involve keeping your identity well-hidden on the Inte
 ## Installation
 Step1: 
 
-Go to Jigsaw outline's website: https://jigsaw.google.com/projects/#outline and download outline.
+Go to Jigsaw outline's website: https://getoutline.org/en/home and download outline.
 
 Step 2:
 Create a manager key in outline.
