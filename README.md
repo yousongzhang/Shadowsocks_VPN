@@ -75,4 +75,7 @@ https://en.wikipedia.org/wiki/Shadowsocks
 https://tools.ietf.org/html/rfc7539  
 https://en.wikipedia.org/wiki/Poly1305
 
+4. SOCKS Protocol
+https://tools.ietf.org/html/rfc1928#section-5 
+
 
