@@ -35,14 +35,7 @@ Last but not least, Shadowsocks is **very difficult — if not impossible — to
 
 On the other hand, VPN’s modus operandi and its immense popularity have made it easier for governments and platforms to block the technology or force major corporations to remove VPN products from their stores (Apple removing VPN apps from the Chinese App Store is an example).
 
-## Limitations: the Threat Model
-While Shadowsocks is a great technology for bypassing content restrictions, its functionality beyond that is limited. As such, this superproxy is a viable option only if it fits a certain threat model — your ISP.
 
-What is a threat model? Simply put, it is the reason you are looking for a VPN, VPS or DNS proxy in the first place. There are many aspects of the Internet that may demand a higher level of security — examples of threat models are public Wi-Fi hotspots, ISP-related issues such as data monitoring and logging, keeping your online identity hidden, etc.
-
-Since Shadowsocks does not help your online privacy and security, it is a good idea to use it only if your main concern is working around censorship.
-
-Other threat models, which involve keeping your identity well-hidden on the Internet, are areas where Shadowsocks falls short. One could argue that it wasn’t designed for such functionality, and we agree. This is where VPN outshines Shadowsocks.
 
 ## Installation
 Step1: 
