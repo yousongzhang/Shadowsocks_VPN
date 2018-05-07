@@ -53,16 +53,13 @@ Step2: Install and Manage Shadowsocks Server
 
 A:install outline manager and install docker on ubuntu system.
 
-B: Create a client key through outline manager.
+B: Create a client access key through outline manager.
 ![Alt text](https://getoutline.org/modern/img/manager-download-2x.png)
 
 Step3: 
 
-Download shadowsocks client and server: https://www.shadowsocks.org/en/download/servers.html
+Download shadowsocks client and input access key, start VPN connction with server.
 
-Step4:
-
-Use chacha20 as encryption method.
 
 
 
