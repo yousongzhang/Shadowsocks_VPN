@@ -44,7 +44,7 @@ Go to Jigsaw outline's website: https://getoutline.org  use chrome browser and d
 
 Step2: Install and Manage Shadowsocks Server 
 
-A:install outline manager and  run one line bash commond (then docker which contains ss_server and react API for outline mange auto install on ubuntu system) 
+A:install outline manager and  run one line bash commond line (then docker which contains ss_server and react API for outline mange auto install on ubuntu system) 
 
 B: Create a client access key through outline manager.
 ![Alt text](https://getoutline.org/modern/img/manager-download-2x.png)
