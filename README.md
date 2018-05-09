@@ -46,6 +46,9 @@ Step2: Install and Manage Shadowsocks Server
 
 A:install outline manager and  run one line bash commond line on your server (then docker which contains ss_server and react API for outline mange auto install on ubuntu system) 
 
+![Alt text](http://www.99sns.com/outline.png)
+
+
 B: Create a client access key through outline manager.
 ![Alt text](https://getoutline.org/modern/img/manager-download-2x.png)
 
