@@ -51,7 +51,7 @@ after run commond line, copy apiURL certsha256 to  outline manager
 
 
 B: Create a client access key through outline manager.
-![Alt text](https://getoutline.org/modern/img/manager-download-2x.png)
+![Alt text](http://www.99sns.com/outline2.png)
 
 Step3: 
 
